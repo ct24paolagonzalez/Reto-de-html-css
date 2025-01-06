@@ -1,0 +1,39 @@
+
+body {
+background-color : #df851f;
+color: black;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+
+h1 {
+color: #073a9b;
+font-size: 500;
+text-align: center;
+}
+
+
+
+
+
+.myClass {
+    font-size: 60;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    color:#073a9b
+}
+
+
+
+* {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding: 0;
+}
